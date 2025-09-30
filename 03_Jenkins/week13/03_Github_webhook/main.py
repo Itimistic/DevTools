@@ -9,7 +9,7 @@ async def read_root():
     return """
     <html>
         <head>
-            <title>Welcome home</title>
+            <title>Welcome</title>
         </head>
         <body>
             <h1>Welcome to Jenkin Webhook using Fastapi </h1>
